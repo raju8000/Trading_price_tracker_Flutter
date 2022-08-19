@@ -1,4 +1,4 @@
-name: websocket_demo
+name: trading_price_tracker
 description: A new Flutter demo on web-socket.
 
 # The following line prevents the package from being accidentally published to

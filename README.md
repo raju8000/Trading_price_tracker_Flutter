@@ -1,4 +1,4 @@
-# Trading Live Price Flutter
+# Trading Price Tracker Flutter
 
 Flutter app to display live trading price of selected with help of web-socket
 

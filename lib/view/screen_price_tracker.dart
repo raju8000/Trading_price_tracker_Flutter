@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:websocket_demo/view/widget/dropdrown.dart';
-import 'package:websocket_demo/view/widget/market_price.dart';
-
+import 'package:trading_price_tracker/view/widget/dropdrown.dart';
+import 'package:trading_price_tracker/view/widget/market_price.dart';
 import '../models/model_active_symbol.dart';
 
 class ScreenTradingPrices extends StatelessWidget {

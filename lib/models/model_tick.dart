@@ -93,7 +93,7 @@ class Tick {
       int tempAsk = json['ask'];
       ask = tempAsk.toDouble();
     }
-    bid = json['bid'];
+    bid = json['bid'].toDouble();
     epoch = json['epoch'];
     id = json['id'];
     pipSize = json['pip_size'];

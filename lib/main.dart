@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:websocket_demo/view/screen_trading.dart';
+import 'package:trading_price_tracker/view/screen_price_tracker.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
@@ -9,11 +9,10 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Trading price Tracker',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -22,4 +21,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

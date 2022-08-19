@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:websocket_demo/notifier/trade_notifier.dart';
-import 'package:websocket_demo/web_socket/web_socket.dart';
+import 'package:trading_price_tracker/notifier/trade_notifier.dart';
+import 'package:trading_price_tracker/web_socket/web_socket.dart';
 import '../models/model_active_symbol.dart';
 import '../models/model_tick.dart';
 
