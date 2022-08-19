@@ -1,16 +1,11 @@
 # Trading Price Tracker Flutter
 
-Flutter app to display live trading price of selected with help of web-socket
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Flutter app to display Real-time trading price of selected market with help of web-socket. WebSocket make it easy to update data without any user action.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For Project explanation go to [https://devblog.link/websocket-with-riverpod-in-flutter/](https://devblog.link/websocket-with-riverpod-in-flutter/).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### _Find more blog related to flutter on [devblog.link](http://devblog.link/)_
+
+![WebSocket with Riverpod in Flutter](https://devblog.link/wp-content/uploads/2022/08/real_time_price_tracker.gif)
